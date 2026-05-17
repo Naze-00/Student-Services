@@ -45,7 +45,7 @@ A web-based Student Services Management Module built for a school system. Staff 
 
 ```bash
 git clone https://github.com/Naze-00/Student-Services.git
-cd student-services-management
+cd student-services
 ```
 
 ### 2. Install dependencies
