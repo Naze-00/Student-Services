@@ -44,7 +44,7 @@ A web-based Student Services Management Module built for a school system. Staff 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/student-services-management.git
+git clone https://github.com/Naze-00/Student-Services.git
 cd student-services-management
 ```
 
